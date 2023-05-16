@@ -5,8 +5,6 @@
 
 - I’m currently working on **improving my React skills to become an expert.**
 
-- My next steps are **to start learning backend with Node.js**
-
 - Hopefully I will graduate from Systems Engineering **Decemeber 2023**
 
 <h3 align="left">Connect with me: joamonb@gmail.com</h3>
