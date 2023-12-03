@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin Monge</h1>
-<h3 align="center">I am a begginner frontend developer from Costa Rica building my path to become an expert in this area. I am actually in my last year of Systems engineering and I am also taking extra online courses so I can improve my knowledge even more.</h3>
+<h3 align="center">I am a junior Full stack developer from Costa Rica building my path to become an expert in this area. I am actually in my last year of Systems engineering and I am also taking extra online courses so I can improve my knowledge even more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinmonge&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinmonge" /> </p>
 
