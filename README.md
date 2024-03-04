@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinmonge&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinmonge" /> </p>
 
-- I’m currently working on **improving my React skills to become an expert.**
+- I’m currently working on **improving my Angular and Nest skills to become an expert.**
 
-- Hopefully I will graduate from Systems Engineering **Decemeber 2023**
+- Graduated from Systems Engineering **Decemeber 2023**
 
 <h3 align="left">Connect with me: joamonb@gmail.com</h3>
 <p align="left">
